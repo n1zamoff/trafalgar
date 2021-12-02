@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Gilroy Light';
+    src: url('../fonts/Gilroy-Light.eot');
+    src: url('Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gilroy-Light.woff') format('woff'),
+        url('../fonts/Gilroy-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy Bold';
+    src: url('../fonts/Gilroy-ExtraBold.eot');
+    src: url('Gilroy-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gilroy-ExtraBold.woff') format('woff'),
+        url('../fonts/Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('../fonts/Galien-Regular.eot');
+    src: url('Galien-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Galien-Regular.woff') format('woff'),
+        url('../fonts/Galien-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-ExtraBold_1.eot');
+    src: url('Gilroy-ExtraBold_1.eot?#iefix') format('embedded-opentype'),
+        url('Gilroy-ExtraBold_1.woff') format('woff'),
+        url('Gilroy-ExtraBold_1.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Light_1.eot');
+    src: url('Gilroy-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('Gilroy-Light_1.woff') format('woff'),
+        url('Gilroy-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Regular_1.eot');
+    src: url('Galien-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Regular_1.woff') format('woff'),
+        url('Galien-Regular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
